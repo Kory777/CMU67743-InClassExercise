@@ -51,6 +51,10 @@
 //  func forceLightning() -> Bool { return true }
 //}
 
+/*:
+ Place your refactored structs below:
+ */
+
 protocol StarWarCommonProtocol {
   func lightSaberSkill() -> Int
   func telekinesis() -> Int
